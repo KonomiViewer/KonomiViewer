@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-RADME.md is WIP...
+README.md is WIP...
 
 # ✨ [konomiviewer.com](https://konomiviewer.com) ✨
 
