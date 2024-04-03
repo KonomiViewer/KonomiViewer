@@ -4,6 +4,8 @@ README.md is WIP...
 
 # ✨ [konomiviewer.com](https://konomiviewer.com) ✨
 
+If you have any concerns or requests, feel free to write to me in an Issue👯.
+
 <!--
 **KonomiViewer/KonomiViewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
